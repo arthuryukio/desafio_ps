@@ -1,0 +1,12 @@
+{
+    "contract": "AGAU21",
+	"emission_price": 10000,
+	"start_date":"2020-02-03",
+    "index": "PRE",
+    "spread": 0.124519,
+    "schedules": [{
+            "due_date": "2026-01-10",
+            "amount": 1
+        }
+    ]
+}
